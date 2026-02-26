@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ralph-wiggum",
+    "category": "internet-culture",
+    "text": "just mass deployed the ralph wiggum technique across all our repos. 14 PRs merged overnight. we're so back",
+    "image_url": null,
+    "expected_topics": ["bash loop", "AI coding agent", "Geoffrey Huntley", "Simpsons", "trial-and-error"],
+    "expected_bullets_contain": ["loop", "agent", "Simpsons"],
+    "description": "References the 'Ralph Wiggum technique' - a bash loop for iterating AI coding agents, coined by Geoffrey Huntley in mid-2025"
+  },
+  {
+    "id": "vibe-coding",
+    "category": "tech-jargon",
+    "text": "bro really said 'I don't read the code anymore I just vibe code' and got promoted to staff engineer",
+    "image_url": null,
+    "expected_topics": ["vibe coding", "Andrej Karpathy", "AI-assisted programming", "LLM"],
+    "expected_bullets_contain": ["Karpathy", "AI", "code"],
+    "description": "References 'vibe coding', a term coined by Andrej Karpathy for fully AI-driven coding without reading the output"
+  },
+  {
+    "id": "enshittification",
+    "category": "internet-culture",
+    "text": "Another day, another app completing its enshittification arc. Remember when this thing was actually good?",
+    "image_url": null,
+    "expected_topics": ["enshittification", "Cory Doctorow", "platform decay", "user experience"],
+    "expected_bullets_contain": ["Doctorow", "platform", "degrad"],
+    "description": "Uses Cory Doctorow's term 'enshittification' describing how platforms degrade over time"
+  },
+  {
+    "id": "devin-ai",
+    "category": "tech-news",
+    "text": "Devin just mass-opened 500 PRs on an open source project. This is the future of software engineering apparently",
+    "image_url": null,
+    "expected_topics": ["Devin", "Cognition AI", "autonomous coding agent", "open source", "controversy"],
+    "expected_bullets_contain": ["Devin", "AI", "agent"],
+    "description": "References Devin, the AI software engineer by Cognition Labs, and its controversial automated contributions"
+  },
+  {
+    "id": "ratio-twitter",
+    "category": "slang",
+    "text": "ratio + L + you fell off + the audacity to post this from an iPhone",
+    "image_url": null,
+    "expected_topics": ["ratio", "Twitter/X culture", "L", "fell off", "social media dunking"],
+    "expected_bullets_contain": ["ratio", "replies", "Twitter"],
+    "description": "Classic Twitter/X dunk language combining multiple internet slang terms"
+  },
+  {
+    "id": "strawberry-test",
+    "category": "tech-jargon",
+    "text": "new model can't even pass the strawberry test. how many r's in strawberry? apparently still too hard for a trillion parameter model",
+    "image_url": null,
+    "expected_topics": ["strawberry test", "LLM", "tokenization", "reasoning", "AI benchmark"],
+    "expected_bullets_contain": ["strawberry", "token", "language model"],
+    "description": "References the 'strawberry test' - a viral AI benchmark about counting letters, exposing tokenization limitations"
+  },
+  {
+    "id": "fediverse-migration",
+    "category": "current-events",
+    "text": "The great migration continues. Just set up my Mastodon instance. The fediverse feels like early internet and I'm here for it",
+    "image_url": null,
+    "expected_topics": ["Mastodon", "fediverse", "ActivityPub", "Twitter exodus", "decentralized social media"],
+    "expected_bullets_contain": ["Mastodon", "fediverse", "decentralized"],
+    "description": "References the migration from centralized social media to the fediverse/Mastodon"
+  },
+  {
+    "id": "hallucination-ai",
+    "category": "tech-jargon",
+    "text": "asked claude to cite sources and it hallucinated an entire bibliography. three fake journals and an author who doesn't exist. peak AI moment",
+    "image_url": null,
+    "expected_topics": ["hallucination", "AI", "LLM", "citation", "confabulation", "Claude"],
+    "expected_bullets_contain": ["hallucin", "language model", "fabricat"],
+    "description": "Describes AI hallucination - when LLMs generate plausible but entirely fabricated information"
+  },
+  {
+    "id": "dead-internet",
+    "category": "conspiracy-culture",
+    "text": "scrolled for 20 minutes and every comment was clearly bot-generated. dead internet theory isn't a theory anymore it's a documentary",
+    "image_url": null,
+    "expected_topics": ["dead internet theory", "bots", "AI-generated content", "internet authenticity"],
+    "expected_bullets_contain": ["dead internet", "bot", "generated"],
+    "description": "References the 'dead internet theory' - the idea that most online content and interactions are AI/bot-generated"
+  },
+  {
+    "id": "slop-content",
+    "category": "internet-culture",
+    "text": "my entire feed is AI slop now. uncanny valley stock photos with 6 fingers writing motivational quotes. who is this for",
+    "image_url": null,
+    "expected_topics": ["AI slop", "AI-generated content", "social media feeds", "uncanny valley", "content quality"],
+    "expected_bullets_contain": ["slop", "AI-generated", "content"],
+    "description": "References 'AI slop' - a term for low-quality AI-generated content flooding social media"
+  },
+  {
+    "id": "sigma-grindset",
+    "category": "meme",
+    "text": "sigma grindset: wake up at 4am, mass deploy to prod on Friday, no tests, leave by noon. built different",
+    "image_url": null,
+    "expected_topics": ["sigma grindset", "sigma male", "meme", "hustle culture", "irony"],
+    "expected_bullets_contain": ["sigma", "meme", "ironic"],
+    "description": "Ironic use of 'sigma grindset' meme applied to reckless software engineering practices"
+  },
+  {
+    "id": "multimodal-post",
+    "category": "tech-news",
+    "text": "GPT-4o is wild. Just showed it a photo of my fridge and it planned a week of meals. The future is multimodal",
+    "image_url": null,
+    "expected_topics": ["GPT-4o", "multimodal AI", "OpenAI", "vision", "practical AI use"],
+    "expected_bullets_contain": ["GPT-4o", "multimodal", "vision"],
+    "description": "Discusses GPT-4o's multimodal capabilities, specifically image understanding for everyday tasks"
+  }
+]
