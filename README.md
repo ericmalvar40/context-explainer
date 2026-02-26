@@ -37,7 +37,7 @@ An AI agent that explains social media posts by searching for and synthesizing r
 ### 1. Clone and configure
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/ericmalvar40/context-explainer.git
 cd RapidCanvas
 cp .env.example .env
 # Edit .env with your API keys
